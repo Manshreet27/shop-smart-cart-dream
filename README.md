@@ -20,6 +20,6 @@ This project is built with:
 
 - Vite
 - TypeScript
-- React
+- Next JS
 - shadcn-ui
 - Tailwind CSS
